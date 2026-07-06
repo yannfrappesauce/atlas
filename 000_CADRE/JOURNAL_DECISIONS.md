@@ -250,3 +250,18 @@ Aucun dossier produit spécifique (ex. `201_BRASERO`) n'est créé avant le Gate
 Modèle Claude par défaut pour l'exécution documentaire ATLAS : **Sonnet**. Opus/Fable réservé aux arbitrages d'architecture ou critiques de fond, avec justification.
 
 Cette règle s'applique dans Claude Code (choix du modèle par session) et pour les prompts adressés à Claude AI (web).
+
+---
+
+## DEC-0019 - Revision periodique des ponderations P0
+
+**Date :** 2026-07-06
+**Statut :** VALIDE
+
+**Decision :**
+Trois points de controle des ponderations P0 :
+1. Avant Gate 0 : une seule revision autorisee, uniquement si un critere se revele indiscriminant (>=4 candidats/5 obtiennent la meme note).
+2. A chaque nouveau P0 : relecture obligatoire avant application.
+3. A chaque Gate >=2 (franchi ou rate) : REX confronte la ponderation au resultat reel.
+
+**Mecanisme :** entree EVAL dans JOURNAL_EVALUATIONS + DEC dans JOURNAL_DECISIONS + increment de version (v1, v2...). Colonne version_ponderations dans MATRICE_MULTICRITERE.csv.
