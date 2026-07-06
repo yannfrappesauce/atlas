@@ -17,3 +17,5 @@
 ## IdÃ©es non triÃ©es (Ã  requalifier)
 
 *Aucune Ã  ce jour.*
+
+- BL-008 Décider du périmètre d'usage Codex sur ATLAS (intégration ou exclusion) — 2026-07-06 — Déclencheur : entrée en P1 (analyse d'avis clients concurrents).
