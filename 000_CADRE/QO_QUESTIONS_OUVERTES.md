@@ -15,4 +15,4 @@
 | QO-07 | Règle RFQ : toute RFQ inclut-elle systématiquement au moins un fabricant UE ? | Ouvert — à trancher avant P5 | — |
 | QO-08 | Participation effective de Julien Gottieb au projet ATLAS | Ouvert | — |
 | QO-09 | Forme de collaboration avec Julien (associé, mentor, apporteur, sous-traitant) | Ouvert | Conditionné à QO-08 |
-| QO-10 | Rythme hebdomadaire alloué à ATLAS (heures/semaine, prises sur quelle activité) | Ouvert — à trancher explicitement | — |
+| QO-10 | Rythme hebdomadaire alloué à ATLAS (heures/semaine, prises sur quelle activité) | Tranchée : 20 h/semaine sur semaines actives ATLAS | DEC-0020 |
