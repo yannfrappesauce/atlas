@@ -19,3 +19,5 @@
 *Aucune Ã  ce jour.*
 
 - BL-008 Décider du périmètre d'usage Codex sur ATLAS (intégration ou exclusion) — 2026-07-06 — Déclencheur : entrée en P1 (analyse d'avis clients concurrents).
+
+- BL-009 Concevoir grille de sélection intra-famille (P2/P3) distincte de la grille P0 : critères matériaux/dimensions/fabricant/prix usine/MOQ - 2026-07-06 - Déclencheur : Gate 0 franchi.
