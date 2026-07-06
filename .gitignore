@@ -1,0 +1,34 @@
+# Secrets
+.env
+.env.local
+*.key
+*.pem
+
+# Logs et temporaires
+*.log
+logs/
+tmp/
+temp/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Node
+node_modules/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Éditeurs
+.vscode/*
+!.vscode/settings.json.example
+.idea/
+
+# Excel temporaires
+~$*.xlsx
+~$*.xls
