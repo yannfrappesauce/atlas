@@ -95,3 +95,32 @@ Sources :
 ## Décision Gate 0
 
 *À inscrire ici en synthèse, puis officialiser dans `000_CADRE/JOURNAL_DECISIONS.md` comme `DEC-XXXX — Résultat Gate 0`.*
+
+---
+
+## EVAL-0001 - Ponderations v1 (score strategique et lancement)
+
+**Date :** 2026-07-06
+**Auteur :** Yann Frappesauce
+**Version :** v1
+
+| Critere | Strat | Lancement |
+|---|---|---|
+| 1. Potentiel marche | 25 | 10 |
+| 2. Marge brute potentielle | 25 | 20 |
+| 3. Capital requis avant Gate 2 | 5 | 15 |
+| 4. Densite valeur/poids | 10 | 10 |
+| 5. Saisonnalite | 5 | 10 |
+| 6. Complexite reglementaire | 15 | 15 |
+| 7. Complexite SAV | 5 | 5 |
+| 8. Differenciation possible | 10 | 5 |
+| 9. Valeur d'apprentissage | 0 | 10 |
+| **Total** | **100** | **100** |
+
+**Justification :**
+- Capital requis a 15 (pas 25) en lancement : evite double penalisation avec veto V1.
+- Reglementaire a 15 : coherent avec la gravite des trous identifies (RSGP, REP, RC produits).
+- Differenciation a 10 : critere subjectif en P0, ne merite pas 20.
+- Valeur d'apprentissage a 0 strategique : l'apprentissage n'est pas une qualite intrinseque du produit.
+
+**Revision autorisee** : voir DEC-0019 (avant Gate 0, si critere indiscriminant).
