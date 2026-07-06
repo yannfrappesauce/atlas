@@ -265,3 +265,22 @@ Trois points de controle des ponderations P0 :
 3. A chaque Gate >=2 (franchi ou rate) : REX confronte la ponderation au resultat reel.
 
 **Mecanisme :** entree EVAL dans JOURNAL_EVALUATIONS + DEC dans JOURNAL_DECISIONS + increment de version (v1, v2...). Colonne version_ponderations dans MATRICE_MULTICRITERE.csv.
+
+---
+
+## DEC-0020 - Rythme ATLAS periode P0
+
+**Date :** 2026-07-06
+**Statut :** VALIDE
+**Reference :** QO-10
+
+**Decision :**
+Rythme alloue a ATLAS pendant la periode P0 : 20 h/semaine sur les semaines ou ATLAS est le projet actif.
+
+**Precisions :**
+- ATLAS est un projet a activation ponctuelle, pas continu. Les semaines sans ATLAS existent.
+- DEC-0001 (TEKNEC > ATLAS) s'applique aux semaines de conflit hebdomadaire, pas au lissage global.
+- Reexamen apres Gate 0 : le rythme post-P0 sera fixe par une nouvelle DEC.
+
+**Kill criteria de rythme :**
+- Si Gate 0 non atteint apres 3 semaines actives ATLAS : diagnostic explicite (methode inadaptee, candidats mal choisis, ou charge externe trop forte).
