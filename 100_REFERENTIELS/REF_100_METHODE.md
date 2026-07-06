@@ -127,3 +127,11 @@ Les référentiels transverses (`REF_110` à `REF_195`) restent en placeholder j
 - **P9** → `REF_170_FINANCES.md` (pricing final) — la doctrine coût complet et le calculateur v0 sont eux tirés dès P1
 - **P10** → `REF_180_SAV.md` + `REF_195_REX.md`
 - **transverse continu** → `REF_190_IA.md` (automatisations, activées avec ROI démontré)
+
+## 4.7 Gouvernance des ponderations
+
+Les ponderations P0 ne sont pas figees. Voir DEC-0019 dans JOURNAL_DECISIONS.md.
+
+- Toute modification passe par une entree EVAL dans JOURNAL_EVALUATIONS + une DEC dans JOURNAL_DECISIONS.
+- Version incrementee (v1, v2...) et tracee dans la colonne version_ponderations de MATRICE_MULTICRITERE.csv.
+- Revision avant Gate 0 autorisee une seule fois, si un critere est indiscriminant (>=4 candidats/5 memes notes).
