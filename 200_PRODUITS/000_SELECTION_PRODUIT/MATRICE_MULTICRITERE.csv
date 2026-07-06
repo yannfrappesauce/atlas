@@ -1,6 +1,6 @@
-﻿version_ponderations,candidat,statut,vetos,note_potentiel_marche,source_potentiel_marche,note_marge_potentielle,source_marge_potentielle,note_capital_requis,source_capital_requis,note_densite_valeur_poids,source_densite_valeur_poids,note_saisonnalite,source_saisonnalite,note_complexite_reglementaire,source_complexite_reglementaire,note_complexite_sav,source_complexite_sav,note_differenciation,source_differenciation,note_valeur_apprentissage,source_valeur_apprentissage,score_strategique,score_lancement,decision
-,Brasero,,,,,,,,,,,,,,,,,,,,,,,,
-,Salon de jardin metal,,,,,,,,,,,,,,,,,,,,,,,,
-,Pergola,,,,,,,,,,,,,,,,,,,,,,,,
-,Jardiniere metal,,,,,,,,,,,,,,,,,,,,,,,,
-,Table banc exterieur,,,,,,,,,,,,,,,,,,,,,,,,
+﻿version_ponderations,version_ponderations,candidat,statut,vetos,note_potentiel_marche,source_potentiel_marche,note_marge_potentielle,source_marge_potentielle,note_capital_requis,source_capital_requis,note_densite_valeur_poids,source_densite_valeur_poids,note_saisonnalite,source_saisonnalite,note_complexite_reglementaire,source_complexite_reglementaire,note_complexite_sav,source_complexite_sav,note_differenciation,source_differenciation,note_valeur_apprentissage,source_valeur_apprentissage,score_strategique,score_lancement,decision
+,,Brasero,,,,,,,,,,,,,,,,,,,,,,,,
+,,Salon de jardin metal,,,,,,,,,,,,,,,,,,,,,,,,
+,,Pergola,,,,,,,,,,,,,,,,,,,,,,,,
+,,Jardiniere metal,,,,,,,,,,,,,,,,,,,,,,,,
+,,Table banc exterieur,,,,,,,,,,,,,,,,,,,,,,,,

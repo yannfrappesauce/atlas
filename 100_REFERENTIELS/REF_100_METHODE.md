@@ -135,3 +135,11 @@ Les ponderations P0 ne sont pas figees. Voir DEC-0019 dans JOURNAL_DECISIONS.md.
 - Toute modification passe par une entree EVAL dans JOURNAL_EVALUATIONS + une DEC dans JOURNAL_DECISIONS.
 - Version incrementee (v1, v2...) et tracee dans la colonne version_ponderations de MATRICE_MULTICRITERE.csv.
 - Revision avant Gate 0 autorisee une seule fois, si un critere est indiscriminant (>=4 candidats/5 memes notes).
+
+## 4.7 Gouvernance des ponderations
+
+Voir DEC-0019.
+
+- Modification = entree EVAL dans JOURNAL_EVALUATIONS + DEC dans JOURNAL_DECISIONS.
+- Version incrementee (v1, v2...), tracee dans colonne version_ponderations de MATRICE_MULTICRITERE.csv.
+- Revision avant Gate 0 : une seule fois autorisee, si critere indiscriminant (>=4 candidats/5 memes notes).
