@@ -303,3 +303,25 @@ Rythme alloue a ATLAS pendant la periode P0 : 20 h/semaine sur les semaines ou A
 - Salon de jardin metal, Jardiniere metal, Table/banc exterieur : reportes au backlog (BL-010).
 
 **Reference :** DEC-0014 (Julien Gottieb informe requis avant decision engageante ulterieure).
+
+---
+
+## DEC-0022 - Precision perimetre produit pilote : brasero-plancha extérieur premium
+
+**Date :** 2026-07-07
+**Statut :** VALIDE
+
+**Decision :** Le produit pilote ATLAS est un brasero-plancha extérieur premium en acier, destiné à la cuisine conviviale autour du feu.
+
+Le brasero d'ambiance / chauffage devient produit derivé potentiel (2e produit ATLAS), reutilisant materiaux et procedes du 1er.
+
+**Justification :** decision porteur post-echange ChatGPT 2026-07-07. Marche plus structuré, valeur percue superieure, exploite mieux l'expertise ingenieur (thermique, materiaux, mecanique).
+
+**Consequences immediates :**
+- AV-08 (norme EN 1860-1 barbecues combustible solide) devient bloquant P3-P4.
+- Reglement CE 1935/2004 (contact alimentaire) ajoute au perimetre reglementaire.
+- Concurrents cibles reordonnes : premium OFYR / Quoco / Hexagone / Remundi ; milieu CookKing / BonFeu / Barbecook ; entree Cook'In Garden / Blumfeldt. RB73, Grill'Chic, Brasero France a verifier [AV].
+- P1_ETUDE_MARCHE.md v1 partielle : section 2 (prix Barbecook) reste valide. Section 1 concurrents a re-hierarchiser.
+- CDC futur (P3) integre : plaque de cuisson (materiau, epaisseur, diametre), arrivee d'air, bac cendres, modularite.
+
+**Reference :** DEC-0021 (brasero pilote), AV-08 (norme EN 1860-1), AV-11 (obligations AGEC), remplace lecture "brasero pur" precedemment envisagee.

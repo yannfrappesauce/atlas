@@ -18,8 +18,9 @@ Un point AV validé donne lieu à :
 | AV-05 | REP emballages : éco-organisme + identifiant unique ADEME dès la 1re unité | ADEME / éco-organisme | P4 | Ouvert |
 | AV-06 | REP produit selon catégorie (bricolage/jardin, éléments d'ameublement, etc.) | ADEME | P4 | Ouvert |
 | AV-07 | Obligations RSGP/GPSR (règlement UE 2023/988) — dossier technique, notice, étiquetage | EUR-Lex / DGCCRF | P4 | Ouvert |
-| AV-08 | Normes applicables selon fonction du produit retenu (ex. EN 1860-1 si cuisson combustible solide) | AFNOR / EUR-Lex | P3–P4 | Ouvert |
+| AV-08 | Norme EN 1860-1 barbecues combustible solide (obligatoire suite DEC-0022) | AFNOR / EUR-Lex | P3-P4 (bloquant) | Ouvert |
 | AV-09 | Coût d'une RC exploitation + RC produits pour la catégorie du produit retenu | Devis 2–3 assureurs | Avant P9 | Ouvert |
 | AV-10 | Disponibilité d'un futur signe de marque commerciale (classes pertinentes selon produit) | Recherche INPI | Avant tout actif de marque | Ouvert |
 | AV-11 | Obligations AGEC (Triman, information tri, disponibilité pièces détachées, indice éventuel) | Legifrance / DGCCRF | P4 | Ouvert |
 | AV-12 | Régime TVA à l'import (autoliquidation via CA3 depuis 2022) et impact trésorerie | Douane.gouv.fr / impots.gouv.fr | P8 | Ouvert |
+| AV-13 | Reglement CE 1935/2004 contact alimentaire (declenche par DEC-0022) | EUR-Lex / DGCCRF | P3-P4 (bloquant) | Ouvert |
