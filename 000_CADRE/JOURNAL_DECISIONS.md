@@ -284,3 +284,22 @@ Rythme alloue a ATLAS pendant la periode P0 : 20 h/semaine sur les semaines ou A
 
 **Kill criteria de rythme :**
 - Si Gate 0 non atteint apres 3 semaines actives ATLAS : diagnostic explicite (methode inadaptee, candidats mal choisis, ou charge externe trop forte).
+
+---
+
+## DEC-0021 - Choix brasero hors matrice P0
+
+**Date :** 2026-07-06
+**Statut :** VALIDE (assume hors gouvernance standard)
+
+**Decision :** Le brasero est retenu comme produit pilote sans passer la grille P0 complete.
+
+**Justification :** interet personnel du porteur + refus d'investir 14-20h en selection multicriteres pour un premier produit sur lequel l'intuition est forte.
+
+**Consequences assumees :**
+- DEC-0007 (methode validee par resultat) et DEC-0016 (methode reproductible) ne s'appliquent pas au 1er produit ATLAS mais s'appliqueront au 2e produit.
+- Angle mort documente : le perimetre 'amenagement interieur/exterieur' du DM_PROJET_ATLAS_V1 est une hypothese non validee, heritee de la redaction initiale (ChatGPT). Non conteste pour ce 1er produit.
+- Pergola exclue du perimetre ATLAS (produit sur-mesure, EVAL-0002).
+- Salon de jardin metal, Jardiniere metal, Table/banc exterieur : reportes au backlog (BL-010).
+
+**Reference :** DEC-0014 (Julien Gottieb informe requis avant decision engageante ulterieure).

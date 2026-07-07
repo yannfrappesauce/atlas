@@ -21,3 +21,7 @@
 - BL-008 Décider du périmètre d'usage Codex sur ATLAS (intégration ou exclusion) — 2026-07-06 — Déclencheur : entrée en P1 (analyse d'avis clients concurrents).
 
 - BL-009 Concevoir grille de sélection intra-famille (P2/P3) distincte de la grille P0 : critères matériaux/dimensions/fabricant/prix usine/MOQ - 2026-07-06 - Déclencheur : Gate 0 franchi.
+
+- `BL-010` Passer Salon de jardin metal, Jardiniere metal, Table/banc exterieur par la grille P0 quand le 2e produit ATLAS sera envisage - 2026-07-06 - Declencheur : cloture ou echec brasero.
+- `BL-011` Informer Julien Gottieb du demarrage brasero - 2026-07-06 - Declencheur : avant toute decision engageante (commande, contrat, depot marque).
+- `BL-012` Reviser le perimetre 'amenagement' du DM_PROJET_ATLAS_V1 avant P0 du 2e produit - 2026-07-06 - Declencheur : cloture brasero (succes ou echec).
