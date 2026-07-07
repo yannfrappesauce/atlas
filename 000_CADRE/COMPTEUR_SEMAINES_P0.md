@@ -8,7 +8,7 @@
 
 ## Compteur
 
-- [ ] Semaine 1 : du __/__/____ au __/__/____ - notes :
+- [x] Semaine 1 : du 06/07/2026 au 12/07/2026 - notes : démarrage effectif ATLAS - setup, gouvernance, EVAL-0001, DEC-0019, DEC-0020, COMPTEUR.
 - [ ] Semaine 2 : du __/__/____ au __/__/____ - notes :
 - [ ] Semaine 3 : du __/__/____ au __/__/____ - notes : SI COCHEE SANS G0 -> diagnostic obligatoire
 - [ ] Semaine 4+ : uniquement apres reexamen DEC-0020
