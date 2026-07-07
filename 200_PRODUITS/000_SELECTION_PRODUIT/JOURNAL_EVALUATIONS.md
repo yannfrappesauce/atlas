@@ -124,3 +124,16 @@ Sources :
 - Valeur d'apprentissage a 0 strategique : l'apprentissage n'est pas une qualite intrinseque du produit.
 
 **Revision autorisee** : voir DEC-0019 (avant Gate 0, si critere indiscriminant).
+
+---
+
+## EVAL-0002 - Retrait Pergola des candidats P0
+
+**Date :** 2026-07-06
+**Auteur :** Yann Frappesauce
+
+**Decision :** Pergola retiree de la liste des candidats P0.
+
+**Justification :** produit intrinsequement sur-mesure, incompatible avec le modele ATLAS (produit standardise importable ou fabricable en serie). Hors perimetre.
+
+**Consequence :** 4 candidats restants (Brasero, Salon de jardin metal, Jardiniere metal, Table/banc exterieur).
