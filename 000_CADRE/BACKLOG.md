@@ -25,3 +25,5 @@
 - `BL-010` Passer Salon de jardin metal, Jardiniere metal, Table/banc exterieur par la grille P0 quand le 2e produit ATLAS sera envisage - 2026-07-06 - Declencheur : cloture ou echec brasero.
 - `BL-011` Informer Julien Gottieb du demarrage brasero - 2026-07-06 - Declencheur : avant toute decision engageante (commande, contrat, depot marque).
 - `BL-012` Reviser le perimetre 'amenagement' du DM_PROJET_ATLAS_V1 avant P0 du 2e produit - 2026-07-06 - Declencheur : cloture brasero (succes ou echec).
+
+- `BL-013` Evaluer barbecues et planchas comme candidats pour le 2e produit ATLAS - 2026-07-07 - Declencheur : cloture ou echec brasero.
